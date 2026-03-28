@@ -1,60 +1,63 @@
-# SMART HOME
+# Smart Home Simulation
 
-## Authors 
-Oľga Ostashchuk, Michal Pechník, Tereza Lodrová 
+A Java application for virtual smart home simulation. The project models a household environment with people, animals, devices, sensors, vehicles, rooms, and weather conditions, and simulates their behavior, activities, state changes, events, and resource consumption.
 
-## DESIGN PATTERNS: 
+## Overview
 
-Observer - package cz.cvut.fel.omo.observers
-Visitor - package cz.cvut.fel.omo.visitors
-Builder - package cz.cvut.fel.omo.builders
-Simple factory - package cz.cvut.fel.omo.factory
-Chain of responsibility - package cz.cvut.fel.omo.handlers
-Lazy loading - package cz.cvut.fel.omo.model.devices.Device, getManual
-State machine - package cz.cvut.fel.omo.deviceStates
-Facade - cz.cvut.fel.omo.facade
+The application simulates the operation of an intelligent home, including device usage, household activities, weather changes, generated events, and reporting. Devices can change states, consume resources such as electricity, gas, and water, and may break and require repair. People and animals perform activities that affect the home environment and interact with devices and other entities. 
 
-## UML
+## Tech Stack
 
-https://gitlab.fel.cvut.cz/ostasolg/b201_b6b36omo-semestral-work/-/blob/master/uml_diagrams/omo_class_diagram_v2.png 
+- Java
+- Maven
+- SLF4J
+- Logback
+- UML diagrams
 
-## USE CASE 
+## Main Concepts
 
-https://gitlab.fel.cvut.cz/ostasolg/b201_b6b36omo-semestral-work/-/blob/master/uml_diagrams/omo_use_case_diagram_v2.png 
+- Smart home simulation
+- Object-oriented design
+- Design patterns
+- Logging
+- Report generation
 
+## Implemented Design Patterns
 
-## FUNKČNÍ POŽADAVKY
+- Observer
+- Visitor
+- Builder
+- Simple Factory
+- Chain of Responsibility
+- Lazy Loading
+- State
+- Facade
 
-F1- Splněno, cz.cvut.fel.omo.model 
+## Reports
 
-F2- Splněno, každé zařízení se může zapnout, vypnout, dát do nečinného stavu, rozbít a opravit. Jednotlivá zařízení v domu mají API na ovládání - model.devices.DeviceOperationsApi, stavy zariadení sú implementované v deviceStates.
+The application generates reports covering house configuration, activity and device usage, consumption, and events.
 
-F3- Splněno, při změně stavu se spočítá spotřeba v aktuálním stavu. - cz.cvut.fel.omo.model.details.Consumption
+- `HouseConfigReport.txt`
+- `ActivityAndUsageReport.txt`
+- `ConsumptionReport.txt`
+- `DeviceEventReport.txt`
+- `WeatherEventReport.txt`
 
-F4- Splněno, visitors.Waterconsumptionvisitor, visitors.Electricityconsumptionvisitor
+Reports are stored in the `reports` folder.
 
-F5- Splněno, Osoba může používat zařízení, najíst se (pokud bude hladová), dále může krmit děti nebo zvířata (pokud budou hladoví), může jít na kolo nebo vzít auto (pokud v něm bude ještě volné místo) a jít lyžovat, osoba může také opravit zařízení nebo přemístit se z místnosti a čekat. package controllers
+## Configuration
 
-F6- Splněno package controllers
+Configuration is located in:
 
-F7- Splněno package controllers + handlers
+- `cz.cvut.fel.omo.runningConfig`
 
-F8- Splněno, package report, package visitors.FinancialReportVisitor, visitors.StartReportVisitor, + logování do souborů 
+## How to Run
 
-F9- Splněno, handlers.BrokenDeviceHandler, deviceStates.OffState - getFixed , manual je přístupný v model.details.Manual
+Run the application from the `SmartHome` main class.
 
-F10- Splněno, controllers.HouseController
+### Run with Maven
 
-
-## NEFUNKČNÍ POŽADAVKY
-
-Není požadována autentizace ani autorizace.
-
-Aplikace může běžet pouze v jedné JVM.
-
-Reporty jsou ve složce reports.
-
-Konfigurace jsou v cz.cvut.fel.omo.runningConfig.
-
-Javadoc.
-
+```bash
+mvn clean compile
+mvn exec:java -Dexec.mainClass="cz.cvut.fel.omo.SmartHome"
+```
