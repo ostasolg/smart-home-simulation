@@ -1,0 +1,157 @@
+――――――――――――――――――――――― REPORT BEGINNING ―――――――――――――――――――――――
+                         28.1. 05:57 2021                         
+Device consumption VacuumCleaner
+-
+Electricity :    1000
+Water :         0
+―――――――――――――――――――――――――――
+Total:        1900 Kč
+╚═══╗
+Device consumption Fridge
+-
+Electricity :    2000
+Water :         400
+―――――――――――――――――――――――――――
+Total:        3836 Kč
+╚═══╗
+Device consumption Light
+-
+Electricity :    200
+Water :         0
+―――――――――――――――――――――――――――
+Total:        380 Kč
+╚═══╗
+Device consumption Fridge
+-
+Electricity :    2000
+Water :         400
+―――――――――――――――――――――――――――
+Total:        3836 Kč
+╚═══╗
+Device consumption Sensor
+-
+Electricity :    20
+Water :         0
+―――――――――――――――――――――――――――
+Total:        38 Kč
+╚═══╗
+Device consumption Fridge
+-
+Electricity :    2000
+Water :         400
+―――――――――――――――――――――――――――
+Total:        3836 Kč
+╚═══╗
+Device consumption CoffeeMaker
+-
+Electricity :    88
+Water :         20
+―――――――――――――――――――――――――――
+Total:        169 Kč
+╚═══╗
+Device consumption Light
+-
+Electricity :    250
+Water :         0
+―――――――――――――――――――――――――――
+Total:        475 Kč
+╚═══╗
+Device consumption Radio
+-
+Electricity :    107
+Water :         0
+―――――――――――――――――――――――――――
+Total:        203.3 Kč
+╚═══╗
+Device consumption TV
+-
+Electricity :    415
+Water :         0
+―――――――――――――――――――――――――――
+Total:        788.5 Kč
+╚═══╗
+Device consumption Light
+-
+Electricity :    200
+Water :         0
+―――――――――――――――――――――――――――
+Total:        380 Kč
+╚═══╗
+Device consumption Sensor
+-
+Electricity :    57
+Water :         0
+―――――――――――――――――――――――――――
+Total:        108.3 Kč
+╚═══╗
+Device consumption Light
+-
+Electricity :    200
+Water :         0
+―――――――――――――――――――――――――――
+Total:        380 Kč
+╚═══╗
+Device consumption Light
+-
+Electricity :    250
+Water :         0
+―――――――――――――――――――――――――――
+Total:        475 Kč
+╚═══╗
+Device consumption TV
+-
+Electricity :    218
+Water :         0
+―――――――――――――――――――――――――――
+Total:        414.2 Kč
+╚═══╗
+Device consumption Sensor
+-
+Electricity :    20
+Water :         0
+―――――――――――――――――――――――――――
+Total:        38 Kč
+╚═══╗
+Device consumption PC
+-
+Electricity :    100
+Water :         0
+―――――――――――――――――――――――――――
+Total:        190 Kč
+╚═══╗
+Device consumption Dishwasher
+-
+Electricity :    675
+Water :         900
+―――――――――――――――――――――――――――
+Total:        1363.5 Kč
+╚═══╗
+Device consumption WashingMachine
+-
+Electricity :    300
+Water :         400
+―――――――――――――――――――――――――――
+Total:        606 Kč
+╚═══╗
+Device consumption Sensor
+-
+Electricity :    57
+Water :         0
+―――――――――――――――――――――――――――
+Total:        108.3 Kč
+╚═══╗
+Device consumption VacuumCleaner
+-
+Electricity :    1500
+Water :         0
+―――――――――――――――――――――――――――
+Total:        2850 Kč
+╚═══╗
+House consumption 
+-
+Electricity :    11657
+Water :         2520
+―――――――――――――――――――――――――――
+Total:        22375.1 Kč
+╚═══╗
+―――――――――――――――――――――――― REPORT END ――――――――――――――――――――――――

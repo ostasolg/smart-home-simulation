@@ -1,0 +1,73 @@
+――――――――――――――――――――――― REPORT BEGINNING ―――――――――――――――――――――――
+                       28.1. 05:57 2021                       
+House 
+  Floor 0
+    Room Kitchen
+      Device Sensor
+      Device Light
+      Device Fridge
+      Device Fridge
+      Device Radio
+      Device Dishwasher
+      Device CoffeeMaker
+      Device Fridge
+      Device VacuumCleaner
+      Window 1
+     Blinds for window 1
+    Room Bedroom
+      Device Sensor
+      Device Light
+      Device TV
+      Window 2
+     Blinds for window 2
+  Floor 1
+    Room Attic
+      Device Sensor
+      Device Light
+      Device TV
+      Window 3
+     Blinds for window 3
+      Window 4
+     Blinds for window 4
+    Room Bathroom
+      Device WashingMachine
+    Room Children room
+      Window 5
+     Blinds for window 5
+    Room Gaming room
+      Device Light
+    Room Study
+      Device Sensor
+      Device Light
+      Device PC
+      Device VacuumCleaner
+      Window 6
+     Blinds for window 6
+
+
+――――――――――――――――――――――――――――――――――――――――――――――――――
+
+
+Number of occupants 6
+Hi, I'm Jack and I'm 40 years old.
+Hi, I'm Rose and I'm 38 years old.
+Hi, I'm Mom and I'm 45 years old.
+Hi, I'm Father and I'm 50 years old.
+Hi, I'm Aunt and I'm 48 years old.
+Hi, I'm Son and I'm 5 years old.
+
+
+――――――――――――――――――――――――――――――――――――――――――――――――――
+
+
+Number of pets 3
+This is Gard and I'm a  Dog.
+This is Mia and I'm a  Cat.
+This is Jack and I'm a  jellyfish.
+
+
+――――――――――――――――――――――――――――――――――――――――――――――――――
+We have 1 degrees celsius and it's SUNNY.
+
+
+―――――――――――――――――――――――― REPORT END ――――――――――――――――――――――――

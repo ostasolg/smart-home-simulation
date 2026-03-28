@@ -1,0 +1,203 @@
+
+---------------- STARTING NEW SIMULATION ----------------
+
+
+ ROUND 1 STARTED: 
+
+Jack did actions: go cycling.
+Rose did actions: Use device TV to watch TV program - Comedy.
+Mom did actions: Use device Dishwasher to wash the dishes.
+Father did actions: go cycling.
+Aunt did actions: take car and go skiing.
+Son did actions: Use device Light to get light of colour - WHITE.
+
+ ROUND 2 STARTED: 
+
+Jack did actions: Use device Radio to listen to music of genre - RAP.
+Rose did actions: Use device TV to watch TV program - Thriller.
+Mom did actions: Use device Light to get light of colour - BLUE.
+Father did actions: go cycling.
+Aunt did actions: go cycling.
+Son did actions: Use device Dishwasher to wash the dishes.
+
+ ROUND 3 STARTED: 
+
+Child Son did actions: become hungry.
+Jack did actions: Use device CoffeeMaker to make coffee - ESPRESSO.
+Rose did actions: go cycling.
+Mom did actions: go cycling.
+Father did actions: Use device Light to get light of colour - WHITE.
+Aunt did actions: Use device Dishwasher to wash the dishes.
+
+ ROUND 4 STARTED: 
+
+Son did actions: be fed by Jack.
+Jack did actions: Use device Fridge to take food Yoghurt to feed child Son.
+Rose did actions: Use device Fridge to take food Vegetables to eat.
+Mom did actions: Use device PC to be on PC.
+Father cannot do sport activity because of bad weather state: RAINY
+Father did actions: Use device Dishwasher to wash the dishes.
+Aunt cannot do sport activity because of bad weather state: RAINY
+Aunt did actions: Use device Light to get light of colour - RED.
+
+ ROUND 5 STARTED: 
+
+Jack did actions: Close all windows. Pull down all blinds.
+Dishwasher device is broken.
+Rose did actions: repair the Dishwasher.
+Mom cannot do sport activity because of bad weather state: RAINY
+Mom did actions: Use device Light to get light of colour - RED.
+Father cannot do sport activity because of bad weather state: RAINY
+Father did actions: Use device Light to get light of colour - BLUE.
+Aunt did actions: Use device PC to be on PC.
+
+ ROUND 6 STARTED: 
+
+Jack did actions: Use device TV to watch TV program - News.
+Rose cannot do sport activity because of bad weather state: RAINY
+Rose did actions: Use device Light to get light of colour - BLUE.
+Mom did actions: Use device WashingMachine to wash clothes.
+Father cannot do sport activity because of bad weather state: RAINY
+Father did actions: Use device CoffeeMaker to make coffee - AMERICANO.
+Aunt did actions: Use device TV to watch TV program - Horror.
+
+ ROUND 7 STARTED: 
+
+Pet Jack did actions: become hungry.
+Jack cannot do sport activity because of bad weather state: RAINY
+Jack did actions: Use device WashingMachine to wash clothes.
+Rose cannot do sport activity because of bad weather state: RAINY
+Rose did actions: Use device Light to get light of colour - GREEN.
+Mom did actions: Use device VacuumCleaner to clean.
+Father cannot do sport activity because of bad weather state: RAINY
+Father did actions: Use device Light to get light of colour - WHITE.
+Aunt cannot do sport activity because of bad weather state: RAINY
+Aunt did actions: Use device PC to be on PC.
+
+ ROUND 8 STARTED: 
+
+Jack did actions: be fed by Jack.
+Jack did actions: Use device Fridge to take food Banana to feed pet Jack.
+Rose did actions: Use device Fridge to take food Fish to eat.
+Mom did actions: go cycling.
+Father did actions: Use device Dishwasher to wash the dishes.
+Aunt did actions: Use device Light to get light of colour - GREEN.
+
+ ROUND 9 STARTED: 
+
+Jack did actions: Close all windows. Roll up all blinds.
+Rose did actions: Use device Light to get light of colour - WHITE.
+Mom did actions: go cycling.
+Father did actions: Use device PC to be on PC.
+Aunt did actions: Use device TV to watch TV program - Documentary.
+
+ ROUND 10 STARTED: 
+
+TV device is broken.
+Jack did actions: repair the TV.
+PC device is broken.
+Rose did actions: repair the PC.
+Mom did actions: Use device Light to get light of colour - RED.
+Father did actions: Use device Light to get light of colour - WHITE.
+Aunt did actions: go cycling.
+
+ ROUND 11 STARTED: 
+
+Light device is broken.
+Jack did actions: repair the Light.
+Rose did actions: go cycling.
+Mom did actions: go cycling.
+Father did actions: Use device VacuumCleaner to clean.
+Aunt did actions: Use device Dishwasher to wash the dishes.
+
+ ROUND 12 STARTED: 
+
+Rose did actions: Use device Fridge to take food Apple to eat.
+Jack cannot do sport activity because of bad weather state: RAINY
+Jack did actions: Use device Dishwasher to wash the dishes.
+Mom did actions: Use device TV to watch TV program - Drama.
+Father did actions: Use device Light to get light of colour - WHITE.
+Aunt did actions: Use device Light to get light of colour - BLUE.
+
+ ROUND 13 STARTED: 
+
+Jack did actions: Close all windows. Pull down all blinds.
+Light device is broken.
+Rose did actions: repair the Light.
+Mom cannot do sport activity because of bad weather state: RAINY
+Mom did actions: Use device Light to get light of colour - BLUE.
+Father cannot do sport activity because of bad weather state: RAINY
+Father did actions: Use device Light to get light of colour - WHITE.
+Aunt cannot do sport activity because of bad weather state: RAINY
+Aunt did actions: Use device Radio to listen to music of genre - JAZZ.
+
+ ROUND 14 STARTED: 
+
+Light device is broken.
+Jack did actions: repair the Light.
+Sensor device is broken.
+Rose did actions: repair the Sensor.
+Light device is broken.
+Mom did actions: repair the Light.
+Pet Mia did actions: become hungry.
+Father cannot do sport activity because of bad weather state: RAINY
+Father did actions: Use device Radio to listen to music of genre - FOLK.
+Aunt did actions: Use device VacuumCleaner to clean.
+
+ ROUND 15 STARTED: 
+
+Mia did actions: be fed by Jack.
+Jack did actions: Use device Fridge to take food Eggs to feed pet Mia.
+Rose did actions: Use device Light to get light of colour - GREEN.
+Mom cannot do sport activity because of bad weather state: RAINY
+Mom did actions: Use device Light to get light of colour - RED.
+Father did actions: Use device WashingMachine to wash clothes.
+Aunt cannot do sport activity because of bad weather state: RAINY
+Aunt did actions: Use device Dishwasher to wash the dishes.
+
+ ROUND 16 STARTED: 
+
+Dishwasher device is broken.
+Jack did actions: repair the Dishwasher.
+Aunt did actions: Use device Fridge to take food French fries to eat.
+Rose did actions: Use device WashingMachine to wash clothes.
+Mom did actions: go cycling.
+Father did actions: Use device PC to be on PC.
+
+ ROUND 17 STARTED: 
+
+Jack did actions: Close all windows. Roll up all blinds.
+WashingMachine device is broken.
+Rose did actions: repair the WashingMachine.
+Mom did actions: Use device Light to get light of colour - GREEN.
+Father did actions: go cycling.
+Aunt did actions: go cycling.
+
+ ROUND 18 STARTED: 
+
+Sensor device is broken.
+Jack did actions: repair the Sensor.
+Rose did actions: go cycling.
+Mom did actions: go cycling.
+Father did actions: Use device VacuumCleaner to clean.
+Aunt did actions: Use device Light to get light of colour - GREEN.
+
+ ROUND 19 STARTED: 
+
+Light device is broken.
+Jack did actions: repair the Light.
+Rose did actions: go cycling.
+Mom did actions: Use device Dishwasher to wash the dishes.
+Father did actions: Use device Light to get light of colour - WHITE.
+Aunt did actions: go cycling.
+
+ ROUND 20 STARTED: 
+
+Mom did actions: Use device Fridge to take food French fries to eat.
+Jack did actions: go cycling.
+Rose did actions: go cycling.
+Father did actions: take car and go skiing.
+Aunt did actions: Use device VacuumCleaner to clean.
+
+--------------- END OF THE SIMULATION ----------------
+

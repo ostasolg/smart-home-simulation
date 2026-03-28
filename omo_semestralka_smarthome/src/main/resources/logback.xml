@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+
+
+    <!-- Send log messages to file -->
+    <appender name="FILE_ACTIVITY" class="ch.qos.logback.core.FileAppender">
+        <file>reports/ActivityAndUsageReport.txt</file>
+        <append>false</append>
+        <encoder>
+            <pattern>%msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <logger name="cz.cvut.fel.omo.controller" level="INFO" additivity="false">
+        <appender-ref ref="FILE_ACTIVITY"/>
+    </logger>
+
+    <logger name="cz.cvut.fel.omo.handlers.PersonHandler" level="INFO" additivity="false">
+        <appender-ref ref="FILE_ACTIVITY"/>
+    </logger>
+
+    <logger name="cz.cvut.fel.omo.handlers.DeviceHandler" level="INFO" additivity="false">
+        <appender-ref ref="FILE_ACTIVITY"/>
+    </logger>
+
+    <logger name="cz.cvut.fel.omo.handlers.EquipmentHandler" level="INFO" additivity="false">
+        <appender-ref ref="FILE_ACTIVITY"/>
+    </logger>
+
+    <logger name="cz.cvut.fel.omo.handlers.NoActivityHandler" level="INFO" additivity="false">
+        <appender-ref ref="FILE_ACTIVITY"/>
+    </logger>
+
+
+
+
+
+    <!-- Send log messages to file -->
+    <appender name="FILE_EVENT" class="ch.qos.logback.core.FileAppender">
+        <file>reports/WeatherEventReport.txt</file>
+        <append>false</append>
+        <encoder>
+            <pattern>%msg%n</pattern>
+        </encoder>
+    </appender>
+
+
+    <logger name="cz.cvut.fel.omo.handlers.WeatherHandler" level="INFO" additivity="false">
+        <appender-ref ref="FILE_EVENT"/>
+    </logger>
+
+
+    <!-- Send log messages to file -->
+    <appender name="FILE_EVENT" class="ch.qos.logback.core.FileAppender">
+        <file>reports/DeviceEventReport.txt</file>
+        <append>false</append>
+        <encoder>
+            <pattern>%msg%n</pattern>
+        </encoder>
+    </appender>
+
+
+    <logger name="cz.cvut.fel.omo.model" level="INFO" additivity="false">
+        <appender-ref ref="FILE_EVENT"/>
+    </logger>
+
+
+
+
+
+    <!-- Send log messages to System.out -->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <!-- By default, encoders are assigned the type ch.qos.logback.classic.encoder.PatternLayoutEncoder -->
+        <encoder>
+            <pattern>%msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Logger for our app -->
+    <logger name="cz.cvut.fel.omo" level="INFO" additivity="false">
+        <appender-ref ref="STDOUT"/>
+    </logger>
+
+
+    <!-- By default, the level of the root level is set to INFO -->
+    <root level="INFO">
+        <appender-ref ref="STDOUT"/>
+    </root>
+
+
+
+</configuration>

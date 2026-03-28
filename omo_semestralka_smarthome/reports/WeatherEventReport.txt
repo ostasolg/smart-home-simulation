@@ -1,0 +1,4 @@
+Weather temperature has changed to 22 and weather state has changed to RAINY.
+Weather temperature has changed to 17 and weather state has changed to SUNNY.
+Weather temperature has changed to 9 and weather state has changed to RAINY.
+Weather temperature has changed to 4 and weather state has changed to SUNNY.

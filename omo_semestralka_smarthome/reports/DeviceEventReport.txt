@@ -1,0 +1,241 @@
+Device TV in room Bedroom is being used right now.
+Device TV in room Bedroom stopped being used and is in Standby - mode.
+Device Dishwasher in room Kitchen was turned on and now is in Standby - mode.
+Device Dishwasher in room Kitchen is being used right now.
+Device Dishwasher in room Kitchen stopped being used and is in Standby - mode.
+Device Dishwasher in room Kitchen was turned off.
+Device Light in room Bedroom was turned on and now is in Standby - mode.
+Device Light in room Bedroom is being used right now.
+Device Light in room Bedroom stopped being used and is in Standby - mode.
+Device Light in room Bedroom was turned off.
+Device Radio in room Kitchen is being used right now.
+Device Radio in room Kitchen stopped being used and is in Standby - mode.
+Device TV in room Bedroom is being used right now.
+Device TV in room Bedroom stopped being used and is in Standby - mode.
+Device Light in room Study was turned on and now is in Standby - mode.
+Device Light in room Study is being used right now.
+Device Light in room Study stopped being used and is in Standby - mode.
+Device Light in room Study was turned off.
+Device Dishwasher in room Kitchen was turned on and now is in Standby - mode.
+Device Dishwasher in room Kitchen is being used right now.
+Device Dishwasher in room Kitchen stopped being used and is in Standby - mode.
+Device Dishwasher in room Kitchen was turned off.
+Device CoffeeMaker in room Kitchen is being used right now.
+Device CoffeeMaker in room Kitchen stopped being used and is in Standby - mode.
+Device Light in room Bedroom was turned on and now is in Standby - mode.
+Device Light in room Bedroom is being used right now.
+Device Light in room Bedroom stopped being used and is in Standby - mode.
+Device Light in room Bedroom was turned off.
+Device Dishwasher in room Kitchen was turned on and now is in Standby - mode.
+Device Dishwasher in room Kitchen is being used right now.
+Device Dishwasher in room Kitchen stopped being used and is in Standby - mode.
+Device Dishwasher in room Kitchen was turned off.
+Device PC in room Study was turned on and now is in Standby - mode.
+Device PC in room Study is being used right now.
+Device PC in room Study stopped being used and is in Standby - mode.
+Device PC in room Study was turned off.
+Device Dishwasher in room Kitchen was turned on and now is in Standby - mode.
+Device Dishwasher in room Kitchen is being used right now.
+Device Dishwasher in room Kitchen was broken.
+Device Dishwasher in room Kitchen was broken.
+Device Dishwasher in room Kitchen stopped being used and is in Standby - mode.
+Device Dishwasher in room Kitchen was turned off.
+Device Light in room Kitchen was turned on and now is in Standby - mode.
+Device Light in room Kitchen is being used right now.
+Device Light in room Kitchen stopped being used and is in Standby - mode.
+Device Light in room Kitchen was turned off.
+Device Dishwasher in room Kitchen was fixed.
+Device Light in room Study was turned on and now is in Standby - mode.
+Device Light in room Study is being used right now.
+Device Light in room Study stopped being used and is in Standby - mode.
+Device Light in room Study was turned off.
+Device Light in room Bedroom was turned on and now is in Standby - mode.
+Device Light in room Bedroom is being used right now.
+Device Light in room Bedroom stopped being used and is in Standby - mode.
+Device Light in room Bedroom was turned off.
+Device PC in room Study was turned on and now is in Standby - mode.
+Device PC in room Study is being used right now.
+Device PC in room Study stopped being used and is in Standby - mode.
+Device PC in room Study was turned off.
+Device TV in room Attic is being used right now.
+Device TV in room Attic stopped being used and is in Standby - mode.
+Device Light in room Attic was turned on and now is in Standby - mode.
+Device Light in room Attic is being used right now.
+Device Light in room Attic stopped being used and is in Standby - mode.
+Device Light in room Attic was turned off.
+Device WashingMachine in room Bathroom was turned on and now is in Standby - mode.
+Device WashingMachine in room Bathroom is being used right now.
+Device WashingMachine in room Bathroom stopped being used and is in Standby - mode.
+Device WashingMachine in room Bathroom was turned off.
+Device CoffeeMaker in room Kitchen is being used right now.
+Device CoffeeMaker in room Kitchen stopped being used and is in Standby - mode.
+Device TV in room Bedroom is being used right now.
+Device TV in room Bedroom stopped being used and is in Standby - mode.
+Device WashingMachine in room Bathroom was turned on and now is in Standby - mode.
+Device WashingMachine in room Bathroom is being used right now.
+Device WashingMachine in room Bathroom stopped being used and is in Standby - mode.
+Device WashingMachine in room Bathroom was turned off.
+Device Light in room Attic was turned on and now is in Standby - mode.
+Device Light in room Attic is being used right now.
+Device Light in room Attic stopped being used and is in Standby - mode.
+Device Light in room Attic was turned off.
+Device VacuumCleaner in room Kitchen was turned on and now is in Standby - mode.
+Device VacuumCleaner in room Kitchen is being used right now.
+Device VacuumCleaner in room Kitchen stopped being used and is in Standby - mode.
+Device VacuumCleaner in room Kitchen was turned off.
+Device Light in room Gaming room was turned on and now is in Standby - mode.
+Device Light in room Gaming room is being used right now.
+Device Light in room Gaming room stopped being used and is in Standby - mode.
+Device Light in room Gaming room was turned off.
+Device PC in room Study was turned on and now is in Standby - mode.
+Device PC in room Study is being used right now.
+Device PC in room Study stopped being used and is in Standby - mode.
+Device PC in room Study was turned off.
+Device Dishwasher in room Kitchen was turned on and now is in Standby - mode.
+Device Dishwasher in room Kitchen is being used right now.
+Device Dishwasher in room Kitchen stopped being used and is in Standby - mode.
+Device Dishwasher in room Kitchen was turned off.
+Device Light in room Attic was turned on and now is in Standby - mode.
+Device Light in room Attic is being used right now.
+Device Light in room Attic stopped being used and is in Standby - mode.
+Device Light in room Attic was turned off.
+Device Light in room Study was turned on and now is in Standby - mode.
+Device Light in room Study is being used right now.
+Device Light in room Study stopped being used and is in Standby - mode.
+Device Light in room Study was turned off.
+Device PC in room Study was turned on and now is in Standby - mode.
+Device PC in room Study is being used right now.
+Device PC in room Study was broken.
+Device PC in room Study was broken.
+Device PC in room Study stopped being used and is in Standby - mode.
+Device PC in room Study was turned off.
+Device TV in room Bedroom is being used right now.
+Device TV in room Bedroom was broken.
+Device TV in room Bedroom was broken.
+Device TV in room Bedroom stopped being used and is in Standby - mode.
+Device TV in room Bedroom was fixed.
+Device TV in room Bedroom was turned on and now is in Standby - mode.
+Device PC in room Study was fixed.
+Device Light in room Kitchen was turned on and now is in Standby - mode.
+Device Light in room Kitchen is being used right now.
+Device Light in room Kitchen stopped being used and is in Standby - mode.
+Device Light in room Kitchen was turned off.
+Device Light in room Attic was turned on and now is in Standby - mode.
+Device Light in room Attic is being used right now.
+Device Light in room Attic was broken.
+Device Light in room Attic was broken.
+Device Light in room Attic stopped being used and is in Standby - mode.
+Device Light in room Attic was turned off.
+Device Light in room Attic was fixed.
+Device VacuumCleaner in room Kitchen was turned on and now is in Standby - mode.
+Device VacuumCleaner in room Kitchen is being used right now.
+Device VacuumCleaner in room Kitchen stopped being used and is in Standby - mode.
+Device VacuumCleaner in room Kitchen was turned off.
+Device Dishwasher in room Kitchen was turned on and now is in Standby - mode.
+Device Dishwasher in room Kitchen is being used right now.
+Device Dishwasher in room Kitchen stopped being used and is in Standby - mode.
+Device Dishwasher in room Kitchen was turned off.
+Device Dishwasher in room Kitchen was turned on and now is in Standby - mode.
+Device Dishwasher in room Kitchen is being used right now.
+Device Dishwasher in room Kitchen stopped being used and is in Standby - mode.
+Device Dishwasher in room Kitchen was turned off.
+Device TV in room Attic is being used right now.
+Device TV in room Attic stopped being used and is in Standby - mode.
+Device Light in room Study was turned on and now is in Standby - mode.
+Device Light in room Study is being used right now.
+Device Light in room Study was broken.
+Device Light in room Study was broken.
+Device Light in room Study stopped being used and is in Standby - mode.
+Device Light in room Study was turned off.
+Device Light in room Kitchen was turned on and now is in Standby - mode.
+Device Light in room Kitchen is being used right now.
+Device Light in room Kitchen stopped being used and is in Standby - mode.
+Device Light in room Kitchen was turned off.
+Device Sensor in room Kitchen was broken.
+Device Sensor in room Kitchen was broken.
+Device Light in room Study was fixed.
+Device Light in room Bedroom was turned on and now is in Standby - mode.
+Device Light in room Bedroom is being used right now.
+Device Light in room Bedroom was broken.
+Device Light in room Bedroom was broken.
+Device Light in room Bedroom stopped being used and is in Standby - mode.
+Device Light in room Bedroom was turned off.
+Device Light in room Kitchen was turned on and now is in Standby - mode.
+Device Light in room Kitchen is being used right now.
+Device Light in room Kitchen was broken.
+Device Light in room Kitchen was broken.
+Device Light in room Kitchen stopped being used and is in Standby - mode.
+Device Light in room Kitchen was turned off.
+Device Radio in room Kitchen is being used right now.
+Device Radio in room Kitchen stopped being used and is in Standby - mode.
+Device Light in room Bedroom was fixed.
+Device Sensor in room Kitchen was fixed.
+Device Sensor in room Kitchen was turned on and now is in Standby - mode.
+Device Light in room Kitchen was fixed.
+Device Radio in room Kitchen is being used right now.
+Device Radio in room Kitchen stopped being used and is in Standby - mode.
+Device VacuumCleaner in room Kitchen was turned on and now is in Standby - mode.
+Device VacuumCleaner in room Kitchen is being used right now.
+Device VacuumCleaner in room Kitchen stopped being used and is in Standby - mode.
+Device VacuumCleaner in room Kitchen was turned off.
+Device Light in room Gaming room was turned on and now is in Standby - mode.
+Device Light in room Gaming room is being used right now.
+Device Light in room Gaming room stopped being used and is in Standby - mode.
+Device Light in room Gaming room was turned off.
+Device Light in room Study was turned on and now is in Standby - mode.
+Device Light in room Study is being used right now.
+Device Light in room Study stopped being used and is in Standby - mode.
+Device Light in room Study was turned off.
+Device WashingMachine in room Bathroom was turned on and now is in Standby - mode.
+Device WashingMachine in room Bathroom is being used right now.
+Device WashingMachine in room Bathroom stopped being used and is in Standby - mode.
+Device WashingMachine in room Bathroom was turned off.
+Device Dishwasher in room Kitchen was turned on and now is in Standby - mode.
+Device Dishwasher in room Kitchen is being used right now.
+Device Dishwasher in room Kitchen was broken.
+Device Dishwasher in room Kitchen was broken.
+Device Dishwasher in room Kitchen stopped being used and is in Standby - mode.
+Device Dishwasher in room Kitchen was turned off.
+Device Dishwasher in room Kitchen was fixed.
+Device WashingMachine in room Bathroom was turned on and now is in Standby - mode.
+Device WashingMachine in room Bathroom is being used right now.
+Device WashingMachine in room Bathroom was broken.
+Device WashingMachine in room Bathroom was broken.
+Device WashingMachine in room Bathroom stopped being used and is in Standby - mode.
+Device WashingMachine in room Bathroom was turned off.
+Device PC in room Study was turned on and now is in Standby - mode.
+Device PC in room Study is being used right now.
+Device PC in room Study stopped being used and is in Standby - mode.
+Device PC in room Study was turned off.
+Device Sensor in room Bedroom was broken.
+Device Sensor in room Bedroom was broken.
+Device WashingMachine in room Bathroom was fixed.
+Device Light in room Gaming room was turned on and now is in Standby - mode.
+Device Light in room Gaming room is being used right now.
+Device Light in room Gaming room stopped being used and is in Standby - mode.
+Device Light in room Gaming room was turned off.
+Device Sensor in room Bedroom was fixed.
+Device Sensor in room Bedroom was turned on and now is in Standby - mode.
+Device VacuumCleaner in room Study was turned on and now is in Standby - mode.
+Device VacuumCleaner in room Study is being used right now.
+Device VacuumCleaner in room Study stopped being used and is in Standby - mode.
+Device VacuumCleaner in room Study was turned off.
+Device Light in room Gaming room was turned on and now is in Standby - mode.
+Device Light in room Gaming room is being used right now.
+Device Light in room Gaming room was broken.
+Device Light in room Gaming room was broken.
+Device Light in room Gaming room stopped being used and is in Standby - mode.
+Device Light in room Gaming room was turned off.
+Device Light in room Gaming room was fixed.
+Device Dishwasher in room Kitchen was turned on and now is in Standby - mode.
+Device Dishwasher in room Kitchen is being used right now.
+Device Dishwasher in room Kitchen stopped being used and is in Standby - mode.
+Device Dishwasher in room Kitchen was turned off.
+Device Light in room Kitchen was turned on and now is in Standby - mode.
+Device Light in room Kitchen is being used right now.
+Device Light in room Kitchen stopped being used and is in Standby - mode.
+Device Light in room Kitchen was turned off.
+Device VacuumCleaner in room Study was turned on and now is in Standby - mode.
+Device VacuumCleaner in room Study is being used right now.
+Device VacuumCleaner in room Study stopped being used and is in Standby - mode.
+Device VacuumCleaner in room Study was turned off.
